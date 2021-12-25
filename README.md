@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Addollah</h1>
-<h2 align="center">A passionate frontend developer, learning full-stack</h2></br>
+<h2 align="center">A passionate competitive programmer, learning full-stack</h2></br>
 <p>Student at Microverse full-stack web development program. Learning HTML, CSS, JavaScript, React, Ruby and Ruby on Rails.</p>
 <p>Looking for a new opportunity as a remote web developer.</p></br>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ToDo List](https://github.com/AbdollahRaafat/To-Do-List)
 
-- 🌱 I’m currently learning **Well, ... many things**
+- 🌱 I’m currently learning **JS, React, Jest, REST API**
 
 - 📫 How to reach me: <a href="mailto:abdollah.raafat.daif@gmail.com"><img src="https://img.shields.io/badge/Gmail-abdollah.raafat.daif@gmail.com-blue?logo=Gmail&amp;logoColor=red&amp;labelColor=white" alt="Mail" data-canonical-src="https://img.shields.io/badge/Gmail-abdollah.raafat.daif@gmail.com?logo=Gmail&amp;logoColor=red&amp;labelColor=white" style="max-width: 100%;"></a>
 -  <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Follow me: <a href="https://github.com/AbdollahRaafat"><img src="https://img.shields.io/github/followers/Abdollahraafat?label=Follow%20Me&amp;style=social" alt="Github" data-canonical-src="https://img.shields.io/github/followers/Hombre2014?label=Follow%20Me&amp;style=social" style="max-width: 100%;"></a>
@@ -30,22 +30,15 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdollahRaafat&show_icons=true&locale=en&layout=compact" alt="AbdollahRaafat" /></p></br>
 
-<!-- ---
+---
 
-<h3 align="center">Some of my projects</h3></br> -->
+<h3 align="center">Some of my projects</h3></br>
 
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=Conference-page)](https://github.com/Hombre2014/Conference-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=To-Do-List)](https://github.com/AbdollahRaafat/To-Do-List)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=My-portfolio)](https://github.com/Hombre2014/My-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=ConcertHub)](https://github.com/AbdollahRaafat/ConcertHub)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=Awesome_Books)](https://github.com/Hombre2014/Awesome_Books)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=calculator)](https://github.com/Hombre2014/calculator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=ROCK-PAPER-SCISSORS)](https://github.com/Hombre2014/ROCK-PAPER-SCISSORS)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=etch-a-sketch)](https://github.com/Hombre2014/etch-a-sketch) -->
 
 ---
 
