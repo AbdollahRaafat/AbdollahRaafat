@@ -30,15 +30,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdollahRaafat&show_icons=true&locale=en&layout=compact" alt="AbdollahRaafat" /></p></br>
 
----
-
-<h3 align="center">Some of my projects</h3></br>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=To-Do-List)](https://github.com/AbdollahRaafat/To-Do-List)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdollahRaafat&repo=ConcertHub)](https://github.com/AbdollahRaafat/ConcertHub)
-
 
 ---
 
